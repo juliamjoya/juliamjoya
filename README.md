@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Me llamo Julian M. Joya F.</h1>
+<h1 align="center">Hola, Me llamo Julian M. Joya F.</h1>
 <h3 align="center">Soy ingeniero de sistemas enfocado en desarrollo web FrontEnd y un poco de BackEnd</h3>
 
 - 💬 Pruedes preguntarme sobre **html, css, javascript y reactjs**
