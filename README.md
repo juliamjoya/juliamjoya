@@ -1,7 +1,7 @@
 <h1 align="center">Hola, Me llamo Julian M. Joya F.</h1>
 <h3 align="center">Soy ingeniero de sistemas enfocado en desarrollo web FullStack</h3>
 
-- 💬 Pruedes preguntarme sobre **html, css, javascript y reactjs**
+- 💬 Pruedes preguntarme sobre **html, css, javascript, bootstrap, php, mysql**
 
 - 📫 Puedes escribirme a **julian_joya@yahoo.es**
 
